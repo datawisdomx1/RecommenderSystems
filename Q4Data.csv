@@ -1,0 +1,8 @@
+﻿,KillBill,Dune,Joker,SpiderMan,Mean
+Alice,1,NaN,5,3,3
+Bob,3,4,NaN,2,3
+Charlie,3,5,2,3,3.25
+,,,,,
+Alice,-2,#VALUE!,2,0,
+Bob,0,1,#VALUE!,-1,
+Charlie,-0.25,1.75,-1.25,-0.25,
